@@ -1,0 +1,5 @@
+nginxrequests
+beautifulsoup4
+
+sephora-reviews-questions-scraper/.keep
+textThis is a placeholder for the binary or non-code file.
